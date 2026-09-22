@@ -1,0 +1,6 @@
+torch
+numpy
+pytest
+# Triton is installed only on the NVIDIA machine (Linux + CUDA).
+# It does not run on this Mac. On the remote box:
+#   python -m pip install triton
